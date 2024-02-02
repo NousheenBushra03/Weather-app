@@ -1,3 +1,5 @@
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & IMAGES -->
 
 # WeatherApp
 
@@ -52,10 +54,9 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
-- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
-- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
+👤 NOUSHEEN BANU
+- Github: [@NousheenBushra03](https://github.com/NousheenBushra03)  
+- Linkedin: (https://www.linkedin.com/in/nousheenbanu03/) 
 
 ## Show your support
 
